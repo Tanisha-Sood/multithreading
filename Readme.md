@@ -1,4 +1,4 @@
-Q. Multiply 500 random matrices of size 1k X 1k with a constant matrix of size 5k X 5k and generate the result table, graph and CPU usages given below
+Q. Multiply 500 random matrices of size 5k X 5k with a constant matrix of size 5k X 5k and generate the result table, graph and CPU usages given below
 
 
 # Multi-Threading Matrix Multiplication
